@@ -1,10 +1,6 @@
 <?php
 return [
-    'root' => '',
-    'classes' => [
-        'app',
-        'core'
-    ],
+    'root' => 'pnss',
     'routes' => 'routes',
     'views' => 'views',
 ];
